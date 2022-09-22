@@ -20,10 +20,13 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24730153&pid=ad15b3bde58196ac7fc7f906b1a4d46d&tid=19a5254ac58b512f2df444bb113d5280",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=ad15b3bde58196ac7fc7f906b1a4d46d&tid=19a5254ac58b512f2df444bb113d5280",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=ad15b3bde58196ac7fc7f906b1a4d46d&tid=19a5254ac58b512f2df444bb113d5280",
-  ]
+    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
+
+ ]
   /**
    * 生成随机数字
    * @param {number} min 最小值（包含）
