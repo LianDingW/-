@@ -20,12 +20,10 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=cc7383df433b0c65a8f7cbe21e020805",
-
+    "https://www.maimemo.com/share/page?uid=24730153&pid=4ba662cb45f7fd2433e12ba8ed1f341e&tid=830e88b95d7e7ad29e735d734cd0c8b3",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=4ba662cb45f7fd2433e12ba8ed1f341e&tid=830e88b95d7e7ad29e735d734cd0c8b3",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=4ba662cb45f7fd2433e12ba8ed1f341e&tid=830e88b95d7e7ad29e735d734cd0c8b3",
+    
  ]
   /**
    * 生成随机数字
