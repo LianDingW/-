@@ -20,9 +20,9 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24730153&pid=1e911a080749fd3c308c8563eb00d533&tid=3678ff91132d984abbaedaecb458a3fa",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=1e911a080749fd3c308c8563eb00d533&tid=3678ff91132d984abbaedaecb458a3fa",
-    "https://www.maimemo.com/share/page?uid=24730153&pid=1e911a080749fd3c308c8563eb00d533&tid=3678ff91132d984abbaedaecb458a3fa",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=c3a7427f0c2a67ef7f6869bd01ca4f4b&tid=2bf4d821a0d5755c43ecd37a358063f9",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=c3a7427f0c2a67ef7f6869bd01ca4f4b&tid=2bf4d821a0d5755c43ecd37a358063f9",
+    "https://www.maimemo.com/share/page?uid=24730153&pid=c3a7427f0c2a67ef7f6869bd01ca4f4b&tid=2bf4d821a0d5755c43ecd37a358063f9",
     
  ]
   /**
